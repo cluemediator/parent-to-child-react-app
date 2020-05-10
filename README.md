@@ -2,6 +2,9 @@
 Example of How to pass data from Parent component to Child component in React JS
 
 Please check the below link for step by step guide
-*http://www.cluemediator.com/how-to-pass-data-from-parent-component-to-child-component-in-react*
+*https://www.cluemediator.com/how-to-pass-data-from-parent-component-to-child-component-in-react*
 
-Read more articles on **http://www.cluemediator.com**
+### Connect with us:
+Website: https://www.cluemediator.com  
+Facebook: https://www.facebook.com/thecluemediator  
+Twitter: https://twitter.com/cluemediator
